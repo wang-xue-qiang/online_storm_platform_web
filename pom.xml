@@ -15,7 +15,7 @@
 		<mysql.version>5.1.18</mysql.version>
 		<uasparser.version>0.6.1</uasparser.version>
 		<c3p0.version>0.9.1.2</c3p0.version>
-		<storm.version>1.1.0</storm.version>
+		<storm.version>1.1.3</storm.version>
 	</properties>
 	<!-- 版本设置 end -->
 	<!-- jar包依赖 start -->
